@@ -5,8 +5,6 @@
 
     <img src="https://pic.imgdb.cn/item/621c6b1c2ab3f51d912d50b0.png" style="zoom:67%;" />
 
-​   <img src="https://pic.imgdb.cn/item/621c6b1c2ab3f51d912d50b0.png" style="zoom: 67%;" />
-
 2. 点击城市，进入详情
     <img src="https://pic.imgdb.cn/item/621c6b572ab3f51d912de628.png" style="zoom:67%;" />
 
