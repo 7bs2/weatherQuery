@@ -13,7 +13,7 @@
 
 3.侧部搜索
 
-   ![](https://pic.imgdb.cn/item/621c6c852ab3f51d9130963c.png)
+    ![](https://pic.imgdb.cn/item/621c6c852ab3f51d9130963c.png)
 
 * 项目说明
 
