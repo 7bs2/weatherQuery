@@ -25,4 +25,4 @@
   
      <img src="https://pic.imgdb.cn/item/621c76b12ab3f51d914484db.png" style="zoom: 67%;" />
   
-  3. 核心库使用Retrofit，viewmodel，livedata
+  3. 核心库使用 Retrofit结合协程获取json数据，viewmodel，livedata
