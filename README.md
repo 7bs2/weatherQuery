@@ -17,10 +17,6 @@
 
    <img src="https://pic.imgdb.cn/item/621c6c852ab3f51d9130963c.png" style="zoom:67%;" />
 
-3.侧部搜索(drawerLayout)
-
-​   <img src="https://pic.imgdb.cn/item/621c6c852ab3f51d9130963c.png" style="zoom:67%;" />
-
 * 项目说明
 
   1. 使用彩云天气提供的开放API,注册地址是https://dashboard.caiyunapp.com/
